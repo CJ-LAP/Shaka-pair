@@ -60,16 +60,16 @@ router.get('/', async (req, res) => {
 
                     let GIFTED_MD_TEXT = `
 *_Pair Code Connected successfully*
-*_Made by HAKI WITH 🤍_*
+*_Made by ÇËËJÀY WITH 🤍_*
 ______________________________________
 ╔════🍀
 ║  TO ALL MY SUPPORTERS:
 ║ _Thanks for you so much for supporting._
 ╚════════════════════════🍀
 ╔═════🍀
-║  powered by Shaka botz
+║  powered by demonic-cj botz
 ║
-║⬡ *©Copyright* _KING HAKI_
+║⬡ *©Copyright* _ÇËËJÀY TÈÇH SÛPPØRT_
 ╚══════════════════════════════════🍀
 _____________________________________
 
