@@ -60,7 +60,7 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 *_Pair Code Connected successfully*
-*_Made by HAKI WITH 🤍_*
+*_Made by ÇËËJÀY WITH 🤍_*
 ______________________________________
 ╔════🍀
 ║  TO ALL MY SUPPORTERS:
@@ -68,20 +68,19 @@ ______________________________________
 ╚════════════════════════🍀
 ╔═════🍀
 ║  『••• ⬡𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽⬡ •••』
-║⬡ *owner:* _https://wa.me/2349112171078_
+║⬡ *owner:* _https://wa.me/2348138621982_
 ║⬡ 
 ║
 ║bot repo👇
 ║
-║⬡ *QUEEN_NIKKA:* _https://github.com/hakisolos/Queen_Nikka_
-║⬡ *AKAZA-MD:* _https://github.com/hakisolos/Akaza-Md_
+║⬡ *DEMONIC-CJ-V3:* _https://github.com/CJ-LAP/DEMONIC-CJ-V3_
 ║
 ║⬡Support channels⬡
 ║
-║⬡ *CHANNEL:* _https://whatsapp.com/channel/0029VaoLotu42DchJmXKBN3L_
-║⬡ *GROUP:* _https://chat.whatsapp.com/CdF4bo9NLcSBP8ThD2tDko_
+║⬡ *CHANNEL:* _https://whatsapp.com/channel/0029VajOKquG3R3pOUajb71j_
+║⬡ *GROUP:* _https://chat.whatsapp.com/ETr0guxf74I2WJMqLRxa03_
 ║
-║⬡ *©Copyright* _KING HAKI_
+║⬡ *©Copyright* _ÇÊËJÀY TÈÇH SÛPPØRT_
 ╚══════════════════════════════════🍀
 _____________________________________
 	
